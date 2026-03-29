@@ -1,0 +1,6 @@
+data,categoria,valor,status,cliente,ano,mes,mes_ano,dia
+2024-01-04,Vendas,2000,Concluido,Empresa A,2024,1,2024-01,4
+2024-01-02,Vendas,1500,Concluido,Empresa B,2024,1,2024-01,2
+2024-01-05,Financeiro,1200,Concluido,Empresa D,2024,1,2024-01,5
+2024-01-01,Marketing,1000,Concluido,Empresa A,2024,1,2024-01,1
+2024-01-03,Marketing,800,Pendente,Empresa C,2024,1,2024-01,3

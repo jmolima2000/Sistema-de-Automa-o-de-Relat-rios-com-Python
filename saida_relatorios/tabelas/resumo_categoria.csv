@@ -1,0 +1,4 @@
+index,categoria,valor_total,ticket_medio,quantidade
+2,Vendas,3500,1750.0,2
+1,Marketing,1800,900.0,2
+0,Financeiro,1200,1200.0,1
